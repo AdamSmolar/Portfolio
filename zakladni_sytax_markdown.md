@@ -22,7 +22,8 @@ Odrážkový seznam (pořadí nezáleží):
 - První bod
 - Druhý bod
 - Třetí bod
-Číslovaný seznam (pořadí záleží):
+
+ Číslovaný seznam (pořadí záleží):
 
 1. Krok první
 2. Krok druhý
