@@ -38,7 +38,7 @@ Každý blok obsahuje:
 
 ---
 
-Kamil Votýpka - TL
+Adam Smolař - TL
 
 [O mně](/about.md)
 
