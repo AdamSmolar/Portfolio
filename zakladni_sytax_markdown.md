@@ -27,8 +27,8 @@ Odrážkový seznam (pořadí nezáleží):
 1. Krok první
 2. Krok druhý
 3. Krok třetí
-Vnořený seznam (odsaď dvěma mezerami):
 
+Vnořený seznam (odsaď dvěma mezerami):
 - Hlavní bod
   - Podřazený bod
   - Další podřazený bod
