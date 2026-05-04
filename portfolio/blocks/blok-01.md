@@ -1,62 +1,50 @@
-# Blok 1 – Konzolová aplikace (Python)
+# Blok 6 – 3D tisk
 
 ## Cíl
 
-Chtěl jsem vytvořit aplikaci, která mi pomůže sledovat, kolik jsem ten den vypil vody. Aplikace se ptá na počet sklenic, zapisuje záznamy do souboru a na konci ukáže celkový příjem a zhodnotí, jestli jsem splnil doporučený denní limit.
+Chtěla jsem vytvořit praktický stojánek na telefon se slotem pro kabel, který bude sedět na stole a dá se použít při nabíjení. Tvar jsem navrhla v Tinkercadu, protože jsem s 3D modelováním začínala.
 
 ---
 
 ## Postup
 
-Nejdřív jsem si nakreslil na papír, co aplikace má umět – přidat záznam, zobrazit historii a vymazat dnešní data. Pak jsem začal programovat postupně: nejdřív funkci pro přidávání záznamu, pak čtení ze souboru a nakonec výpočet součtu.
+Model jsem sestavila v Tinkercadu z jednoduchých tvarů – základna, nakloněná podpěra a výřez pro kabel jsem udělala pomocí „díry" (hole objekt), která se při exportu odečte. Celý model jsem naklonila tak, aby telefon ležel pod úhlem přibližně 65°.
 
-Největší problém byl, když jsem zapomněl ošetřit případ, že soubor ještě neexistuje – program padal s `FileNotFoundError`. Vyřešil jsem to přes `try/except` a výchozí prázdný seznam.
+Při slicování v PrusaSliceru jsem zjistila, že podpěra nad stolem visí ve vzduchu – Blender to označil jako overhang přes 45°. Přidala jsem tedy automatické supports. Výška vrstvy: 0,2 mm, výplň 20 % (vzor Gyroid), 3 perimetry.
 
-Průběžně jsem commitoval na GitHub s popisnými zprávami, abych se mohl vrátit k předchozí verzi, když jsem něco pokazil.
+Tisk na Prusa Mini+ trval 2 hodiny 14 minut. Jeden roh se mírně odlepil od podložky (warping) – v dalším tisku bych přidala Brim.
 
 ---
 
 ## Výstupy
 
-- Soubory `main.py` a `uloziste.py` na GitHubu
-- Data se ukládají do `data/zaznamy.txt`
-- Ukázka výstupu aplikace:
+- Soubor `stojanek_telefon.3mf` z Tinkercadu
+- Screenshot ze sliceru:
 
-```
-=== Sledování pitného režimu ===
-1) Přidat záznam
-2) Zobrazit historii
-3) Konec
+![Náhled v PrusaSliceru](../assets/images/blok6_slicer.png)
 
-Volba: 1
-Počet sklenic: 3
-Uloženo. Celkem dnes: 3 sklenice (0.75 l)
+- Fotografie výtisku:
 
-Volba: 2
---- Historie ---
-14:32  3 sklenice
-15:48  2 sklenice
-Celkem: 5 sklenic (1.25 l) — doporučeno: 8 sklenic (2 l)
-```
+![Výsledný výtisk](../assets/images/blok6_vytisk.jpg)
+
+Stojánek drží telefon správně, kabel jde prostrčit otvorem. Drobný defekt na rohu je funkčně nevadí.
 
 ---
 
 ## Reflexe
 
-Aplikace funguje tak, jak jsem plánoval. Překvapilo mě, jak moc práce je jen ošetření špatných vstupů – myslel jsem, že to bude triviální, ale uživatel může zadat cokoli. Příště bych rovnou psal funkce kratší a více oddělené, protože funkce `zobraz_historii()` mi nakonec dělala víc věcí najednou a bylo těžší ji ladit. Verzování přes Git mi skutečně pomohlo – jednou jsem se vrátil o dva commity zpět, protože jsem rozbil načítání souboru.
+Překvapilo mě, jak rychle šlo navrhnout model v Tinkercadu – základní tvar jsem měla za hodinu. Složitější bylo porozumět, jak orientovat model na tiskové podložce a kdy jsou nutné supports. Příště bych přidala Brim od začátku pro lepší adhezi. Také bych zkusila víc perimetrů na místech, kde se stojánek ohýbá, aby byl pevnější.
 
 ---
 
 ## Teoretické pozadí (stručně)
 
-V projektu jsem pracoval s funkcemi, výjimkami (`try/except`) a se soubory. Datové struktury jsem použil hlavně seznam (list) pro historii záznamů a slovník (dict) pro jeden záznam s časem a hodnotou. Kód je rozdělený do dvou modulů – `main.py` řídí tok programu, `uloziste.py` se stará o čtení a zápis dat. Verzování jsem dělal přes Git a repozitář je na GitHubu.
-
-Podrobnější vysvětlení pojmů je v souboru `teorie.md`.
+3D tisk metodou FDM nanáší roztavený plast (filament) vrstvu po vrstvě. Digitální model ve formátu STL nebo 3MF zpracuje slicer – software, který vygeneruje G-code (instrukce pro tiskárnu). Klíčové parametry jsou výška vrstvy, výplň a přítomnost supports pro přesahy. Podrobnosti v `teorie.md`.
 
 ---
 
 ## Zdroje
 
-- [https://docs.python.org/3/](https://docs.python.org/3/) – dokumentace Pythonu, hlavně sekce o souborech a výjimkách
-- [https://realpython.com/python-exceptions/](https://realpython.com/python-exceptions/) – článek o ošetření výjimek, pomohl mi pochopit rozdíl mezi `except Exception` a konkrétními typy
-- Ukázky z hodin – vzor pro strukturu modulu s funkcemi
+- [https://help.prusa3d.com/cs/](https://help.prusa3d.com/cs/) – Knowledge Base Prusa, hlavně sekce o supports a adhesion
+- [https://www.tinkercad.com/learn](https://www.tinkercad.com/learn) – výukové lekce Tinkercadu
+- [https://www.printables.com/](https://www.printables.com/) – inspirace, prohlížela jsem podobné stojánky pro referenci
