@@ -23,6 +23,7 @@ Adam Smolař - TL
 Portfolio využívá k zobrazování GitHub Pages s pluginen Jekyll
 
 Dostupné na tomto odkazu [Webová prezentace portfolia](https://dawissl.github.io/portfolio-simple/)
-PS děkuji pane uřiteli :)
+PS děkuji pane učiteli :)
+
 ---
 Markdown syntax pro tvorbu obsahu [Markdown](/zakladni_sytax_markdown.md)
