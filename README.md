@@ -10,7 +10,7 @@ Každý blok obsahuje:
 
 ## *Blok 1 a 2 - 3D tisk*
   - [Praktická část](portfolio/blocks/blok-06.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie-06.md)
+  - [Teoretické pozadí](portfolio/teorie/teorie-01.md)
 
 
 ---
