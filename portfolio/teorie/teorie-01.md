@@ -1,134 +1,135 @@
-# Teorie – Blok 1: Konzolová aplikace (Python)
+# Teorie – Blok 1: 3D tisk
 
-## Co jsem se naučil
+## Co jsem se naučila
 
-V tomto bloku jsem poprvé psal větší program rozdělený do více souborů. Pochopil jsem, proč se kód dělí do funkcí a modulů – když jsem měl vše v jednom souboru, začalo být velmi těžké se v tom orientovat.
-
----
-
-## Jak funguje struktura programu
-
-Python program se spouští od shora dolů. Funkce se nejdřív definují (blok `def`), ale nespustí se, dokud je někdo nezavolá. Proto je zvykem mít na konci souboru podmínku:
-
-```python
-if __name__ == "__main__":
-    main()
-```
-
-Tato podmínka zajistí, že `main()` se spustí jen při přímém spuštění souboru, ne při importu z jiného modulu. Přišlo mi to ze začátku divné, ale dává to smysl – modul může být jak spustitelný program, tak knihovna pro ostatní.
+Pochopila jsem, že 3D tisk není jen „stisknu tlačítko a vytiskne se model" – příprava v sliceru a správné nastavení parametrů trvá déle než samotný tisk. Naučila jsem se uvažovat o modelu z pohledu tiskárny: jak leží na podložce, kde jsou přesahy a jak silné mají být stěny.
 
 ---
 
-## Práce se soubory
+## Jak FDM tisk funguje
 
-Soubory se v Pythonu otevírají přes `open()`. Doporučený způsob je použít kontextový manažer `with`, který soubor automaticky zavře i při chybě:
+Tiskárna taví filament v tiskové hlavě (hotend, tryska) a nanáší ho na tiskovou podložku. Každá vrstva se ochladí a slepí s předchozí. Tisk začíná vždy od spodní vrstvy a jde nahoru.
 
-```python
-with open("data.txt", "r", encoding="utf-8") as f:
-    obsah = f.readlines()
-```
-
-Módy otevření: `"r"` = čtení, `"w"` = zápis (přepíše), `"a"` = přidání na konec. Vždy uvádím `encoding="utf-8"`, jinak mohou nastat problémy s diakritikou.
+Klíčový je první vrstva – musí dobře přilnout k podložce. Pokud je tryska příliš vysoko, vlákno nesedí. Příliš nízko a ucpe trysku. Správná výška první vrstvy (Live Adjust Z) je asi polovina průměru trysky.
 
 ---
 
-## Výjimky
+## Co je slicer a co dělá
 
-Výjimka je chyba, která nastane za běhu programu. Python ji „vyhodí" a pokud ji nezachytíme, program spadne. Pomocí `try/except` ji zachytíme a reagujeme:
-
-```python
-try:
-    hodnota = int(input("Zadej číslo: "))
-except ValueError:
-    print("To není číslo.")
-```
-
-Naučil jsem se, že je lepší zachytávat konkrétní typy výjimek (`ValueError`, `FileNotFoundError`) než obecné `except Exception`, protože obecné zachytí i chyby, které bychom raději viděli.
+Slicer je software, který převede 3D model (STL, 3MF) na G-code – textový soubor s instrukcemi pohybu, teplot a podavače. Bez sliceru tiskárna model nečte. Slicer rozdělí model na vrstvy (slices – odtud název) a vygeneruje dráhy pro každou vrstvu.
 
 ---
 
-## Moduly a import
+## Infill – výplň
 
-Když jsem rozdělil kód do dvou souborů, musel jsem se naučit import. V `main.py` stačí napsat:
+Infill je vnitřní vzor, který slicer generuje uvnitř plného tělesa. Není nutné tisknout objekt plný – plast uvnitř je těžký, pomalý a drahý. Výplň 15–20 % je dostatečná pro většinu dekorativních objektů. Funkční díly vyžadují 40+ %.
 
-```python
-import uloziste
-uloziste.uloz_zaznam(data)
-```
+Vzory výplně ovlivňují pevnost a pružnost: Gyroid je oblíbený pro rovnoměrné vlastnosti ve všech směrech, honeycomb je pevný v tlaku, grid je nejrychlejší.
 
-nebo
+---
 
-```python
-from uloziste import uloz_zaznam
-uloz_zaznam(data)
-```
+## Supports a overhangs
 
-Druhý způsob je kratší, ale při více importech z různých modulů může být matoucí, odkud funkce pochází.
+Tiskárna nanáší plast na předchozí vrstvu – pokud pod ní nic není (overhang), plast visí ve vzduchu a deformuje se. Pravidlo 45°: přesahy do 45° tiskárna zvládne bez supports. Strmější vyžadují podpůrné struktury (supports), které se po tisku odlomí.
+
+Supports jsou nevyhnutelné, ale zanechávají stopy na povrchu. Proto je vhodné co nejdříve orientovat model tak, aby přesahů bylo co nejméně.
 
 ---
 
 ## Slovník pojmů
 
-Pojmy, které jsem se naučil během tohoto bloku a vlastními slovy vysvětlím, co znamenají.
+---
+
+**3D tisk (aditivní výroba)**
+Proces vytváření fyzického objektu z digitálního modelu postupným nanášením materiálu vrstvu po vrstvě. Opak frézování (subtraktivní výroby), kde se materiál odebírá.
 
 ---
 
-**Algoritmus**
-Přesný postup řešení nějakého problému. Musí mít jasný začátek, konec a každý krok musí být jednoznačný. Například postup pro výpočet průměru: sečti čísla, vyděl počtem prvků.
+**FDM (Fused Deposition Modeling)**
+Nejrozšířenější metoda 3D tisku – tavení plastového filamentu a jeho nanášení přes trysku. Výsledek má viditelné vrstvy.
 
 ---
 
-**Funkce**
-Pojmenovaný blok kódu, který dělá jednu konkrétní věc. Zavolám ji jménem a může mi vrátit výsledek přes `return`. Funkce jsem použil proto, abych stejný kód nemusel psát vícekrát.
+**Filament**
+Plastové vlákno navinuté na cívce, které tiskárna taví a nanáší. Nejčastější materiály: PLA, PETG, ABS.
 
 ---
 
-**Parametr**
-Vstup funkce – proměnná, kterou funkci předám při volání. Funkce `vypocitej_soucet(cisla)` má parametr `cisla`. Rozdíl oproti běžné proměnné je v tom, že parametr existuje jen uvnitř funkce.
+**PLA (Polylactic Acid)**
+Nejpoužívanější materiál pro FDM tisk. Snadno se tiskne, minimální deformace, biologicky odbouratelný. Nevhodný pro části vystavené teplotám nad ~60 °C.
 
 ---
 
-**Návratová hodnota**
-To, co funkce vrátí přes `return`. Nemusí to být číslo – může to být seznam, slovník nebo `None` (nic). Pokud funkce nemá `return`, vrací automaticky `None`.
+**STL**
+Formát souboru popisující povrch 3D modelu jako soustavu trojúhelníků. Nejrozšířenější formát pro 3D tisk. Neobsahuje informace o barvě nebo materiálu.
 
 ---
 
-**List (seznam)**
-Datová struktura pro ukládání více hodnot za sebou. Píše se do hranatých závorek: `[1, 2, 3]`. Prvky mohou být různého typu. Přistupuji k nim přes index začínající od nuly: `seznam[0]` je první prvek.
+**3MF**
+Modernější formát 3D tisku obsahující geometrii, barvy, materiál a tisková nastavení v jednom souboru. Postupně nahrazuje STL.
 
 ---
 
-**Dictionary (slovník)**
-Datová struktura ukládající páry klíč–hodnota. Píše se do složených závorek: `{"jmeno": "Kamil", "vek": 17}`. Na rozdíl od listu nepřistupuji přes číselný index, ale přes klíč: `zaznam["jmeno"]`.
+**Slicer**
+Software převádějící 3D model (STL/3MF) na G-code. Rozdělí model na vrstvy a vygeneruje dráhy pohybu tiskové hlavy. Příklady: PrusaSlicer, Cura.
 
 ---
 
-**Výjimka (Exception)**
-Chyba, která nastane za běhu programu – například dělení nulou nebo zadání textu místo čísla. Pokud ji nezachytím, program spadne s chybovou hláškou. Zachytávám ji přes `try/except`.
+**G-code**
+Textový soubor s instrukcemi pro tiskárnu – souřadnice pohybů, teploty, rychlosti, podávání filamentu. Generuje ho slicer automaticky.
 
 ---
 
-**Modul**
-Soubor s Pythonem kódem (`.py`), který obsahuje funkce nebo proměnné určené pro použití jinde. Importuji ho přes `import nazev_modulu`. Výhoda je, že logicky oddělím části programu do samostatných souborů.
+**Layer height (výška vrstvy)**
+Tloušťka jedné tištěné vrstvy v mm. Nižší = jemnější povrch a delší tisk. Vyšší = hrubší povrch a kratší tisk. Typicky 0,1–0,3 mm.
 
 ---
 
-**Git**
-Nástroj pro verzování kódu – sleduje historii změn v souborech. Každá uložená verze se nazývá commit. Díky Gitu jsem se mohl vrátit k předchozí funkční verzi, když jsem něco pokazil.
+**Infill (výplň)**
+Vnitřní vzor generovaný slicerem uvnitř plného tělesa. Vyjadřuje se v procentech: 0 % = dutý, 100 % = plný. Vzor i hustota ovlivňují pevnost a hmotnost.
 
 ---
 
-**Commit**
-Jeden „snímek" stavu projektu uložený v Gitu. Každý commit má zprávu popisující, co se změnilo. Správná zpráva říká co a proč, ne jen „oprava" nebo „update".
+**Perimetr**
+Vnější obrysová linka tisknutá kolem každé vrstvy. Více perimetrů = pevnější stěny. Typicky 2–3 perimetry.
 
 ---
 
-**GitHub**
-Webová platforma pro ukládání a sdílení Git repozitářů. Umožňuje přistupovat ke kódu odkudkoli a sdílet ho s ostatními.
+**Support (podpora)**
+Podpůrná struktura generovaná slicerem pod přesahy modelu. Po tisku se mechanicky odstraní. Zanechává stopy na povrchu.
+
+---
+
+**Overhang (přesah)**
+Část modelu vyčnívající do vzduchu bez podkladu. Tiskárna zvládá přesahy přibližně do 45° bez supports.
+
+---
+
+**Warping**
+Deformace tisku způsobená nerovnoměrným chladnutím – rohy a okraje se odlepují od podložky. Řeším Brimem nebo vyšší teplotou podložky.
+
+---
+
+**Brim**
+Plochý „lem" kolem první vrstvy modelu generovaný slicerem. Zvyšuje kontaktní plochu s podložkou a zabraňuje warpingu. Odlomí se po tisku.
+
+---
+
+**Raft**
+Silnější plošina pod celým modelem. Lepší adheze než Brim, ale obtížnější odstranění. Vhodný pro malé nebo nestabilní objekty.
+
+---
+
+**Hotend / tryska (nozzle)**
+Část tiskové hlavy, kde se filament taví a vytlačuje. Standardní průměr trysky je 0,4 mm. Menší = jemnější detail, pomalejší. Větší = rychlejší, hrubší.
 
 ---
 
 ## Zdroje
+
+- [https://help.prusa3d.com/cs/](https://help.prusa3d.com/cs/)
+- [https://www.printables.com/](https://www.printables.com/)
+- [https://all3dp.com/](https://all3dp.com/) – články o materiálech a parametrech tisku
 
 - [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html) – výjimky v Pythonu
 - [https://docs.python.org/3/tutorial/inputoutput.html](https://docs.python.org/3/tutorial/inputoutput.html) – práce se soubory
