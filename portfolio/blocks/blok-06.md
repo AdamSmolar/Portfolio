@@ -1,4 +1,4 @@
-# Blok 6 – 3D tisk
+# Blok 1 a 2 – 3D tisk
 
 ## Cíl
 
