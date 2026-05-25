@@ -22,11 +22,11 @@ Ve studiu se orientuji především na:
 Zajímá mě nejen „jak něco udělat“, ale i „proč to funguje“. Snažím se chápat souvislosti a principy, které pohání tento technický svět, a zkonstruovat je v mém  vlastním prostředí.
 
 ### Cíle
-- zvládnout programování na takové úrovni, abych byl schopný vytvářet vlastní menší projekty
-- naučit se efektivně řešit problémy a hledat chyby v kódu
-- získat přehled v různých oblastech IT, abych si mohl vybrat specializaci
-- rozvíjet schopnost samostatného učení a práce s informacemi
-- do budoucna najít uplatnění v IT oboru (např. jako vývojář nebo tester)
+- dokázat vytvořit 3D model pro své budoucí projekty
+- být schopný zrekreovat cokoliv technicky založeného
+- 
+- 
+- 
 
 ### Další informace
 Jsem spíše analytický typ člověka – rád věci rozebírám do detailu a snažím se pochopit jejich fungování. Zároveň si uvědomuji, že v IT je důležitá i spolupráce, proto se snažím zlepšovat komunikaci při práci v týmu.
