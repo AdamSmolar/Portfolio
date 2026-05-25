@@ -2,25 +2,24 @@
 
 ## Krátké představení autora
 
-Jmenuji se Kamil Votýpka a jsem student technického lycea se zaměřením na informační technologie. O IT se zajímám nejen ve škole, ale i ve svém volném čase, kde se snažím rozvíjet své dovednosti nad rámec výuky.
+Jmenuji se Adam Smolař a jsem student technického lycea se zaměřením na 3D modelování a 3D tisk. O toto téma se zajímám nejen ve škole, ale i ve doma s časovou dotací x hodin týdně, kde se učím rozvíjet své dovednosti stylem samouky pod kontrolou učitele.
 
 ### Zájmy
-- programování (základy v C# a postupně se seznamuji i s dalšími jazyky)
-- práce s počítačem a technologiemi obecně
-- digitální grafika (úprava obrázků, jednoduchý design)
-- počítačové hry – nejen hraní, ale i přemýšlení nad jejich fungováním
+- tisknutí vlastních 3D modelů
+- práce s počítačem a technologiemi  obecně
+- počítačové hry s automatizačními prvky
 - hudba jako prostředek soustředění i relaxace
-- práce s informacemi a jejich ověřování na internetu
+- silový trénink
 
 ### Zaměření
 Ve studiu se orientuji především na:
-- základy algoritmizace a programování
-- porozumění tomu, jak funguje hardware a software
-- práci s kancelářskými nástroji a digitální komunikací
-- základy databází a správy dat
-- bezpečnost na internetu a ochranu osobních údajů
+- zlepšení se v 3D modelování v programu Fusion
+- poučení se z předešlých chyb u prototypů a optimalizace 3D tisku
+- práce s technickými normami a jejich užití
+- základní fyzikální jevy v tekutinách
+- vlastnosti různých materiálu/filamentů
 
-Zajímá mě nejen „jak něco udělat“, ale i „proč to funguje“. Snažím se chápat souvislosti a principy, ne jen postupy.
+Zajímá mě nejen „jak něco udělat“, ale i „proč to funguje“. Snažím se chápat souvislosti a principy, které pohání tento technický svět, a zkonstruovat je v mém  vlastním prostředí.
 
 ### Cíle
 - zvládnout programování na takové úrovni, abych byl schopný vytvářet vlastní menší projekty
