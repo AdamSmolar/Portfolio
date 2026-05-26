@@ -1,7 +1,7 @@
-| značka      | zkratka    |
-|-------------|------------|
-| svislá čára | ctrl+alt+w |
-|      `      | alt+ý      |   
+| Značka      | Zkratka     |
+|-------------|-------------|
+| svislá čára | ctrl+alt+w  |
+|      `      | alt+ý       |   
 # Základy Markdownu
 Markdown je jednoduchý způsob formátování textu. Nepíšeš HTML tagy – používáš běžné znaky, které se automaticky zobrazí jako nadpisy, tučný text, seznam apod.
 
