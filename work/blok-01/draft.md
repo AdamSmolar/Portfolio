@@ -1,3 +1,0 @@
-# Rozpracovaný text
-
-Tady vzniká první verze projektu...

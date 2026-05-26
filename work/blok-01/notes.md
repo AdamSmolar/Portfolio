@@ -1,5 +1,0 @@
-# Poznámky
-
-- nápady
-- myšlenky
-- TODO
