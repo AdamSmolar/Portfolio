@@ -39,14 +39,14 @@ Vnořený seznam (odsaď dvěma mezerami):
   - Podřazený bod
   - Další podřazený bod
 
-Odkazy
+--------------------------------------------------------------Odkazy
 
 [Text odkazu](https://adresa.cz)
 
-Vložení obrázku
+--------------------------------------------------------Vložení obrázku
 
 ![Popis obrázku](/logo.png)
-
+s
 Kód – inline
 
 Pro krátký kód v textu použij obrácené apostrofy:
