@@ -40,7 +40,7 @@ Tisk na Prusa Mini+ trval 2 hodiny 14 minut. Jeden roh se mírně odlepil od pod
 
 - Fotografie výtisku:
 
-![Výsledný výtisk](../assets/images/blok6_vytisk.png)
+![Výsledný výtisk](../assets/images/blok6_tisk.png)
 
 Stojánek drží telefon správně, kabel jde prostrčit otvorem. Drobný defekt na rohu je funkčně nevadí.
 
