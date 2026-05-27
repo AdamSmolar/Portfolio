@@ -1,8 +1,6 @@
-\# Modelování lodičky a lodního šroubu
+# Modelování lodičky a lodního šroubu
 
-
-
-\## Lodička
+## Lodička
 
 
 
