@@ -9,7 +9,7 @@ Kurzy od Fusion Autodesk [self-paced learning](https://www.autodesk.com/learn/on
 	
 ## Reprodukce modelů
 Měřil jsem součástky a následně snažil modelovat 1:1
-Toto byla má 1. zkušenost s
+Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat
 - Model elektromagnetu
 ![error](../a.1/1.1/m.png)
 - Model motoru
