@@ -5,4 +5,13 @@ Kurzy od Fusion Autodesk [self-paced learning](https://www.autodesk.com/learn/on
 
 ![](../a.1/2.1/k.1.png)
 
-##Reprodukce modelů
+- ![model z kurzu](../a.1/2.1/e.png)
+
+
+
+## Reprodukce modelů
+
+![model elektromagnetu](../a.1/1.1/m.png)
+
+![](../a.1/2.1/m.png)
+
