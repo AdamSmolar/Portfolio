@@ -3,7 +3,7 @@
 Vítejte v portfoliu.
 
 Každý blok obsahuje:
-- praktickou část (projek a obrázky)
+- praktickou část (projekt a obrázky)
 - teoretické pozadí (vysvětlení pojmů)
   
 ## **Přehled bloků**
