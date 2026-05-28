@@ -3,8 +3,9 @@
 ## Kurzy
 Kurzy od Fusion Autodesk [self-paced learning](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion)
 
-![error](../a.1/2.1/k.png)
-
+- Splnil jsem 2 sady lekcí
+![error](../a.1/o.1/a.png) ![error](../a.1/o.1/b.png)
+- Jedna z lekcí je 3D modeling
 ![error](../a.1/2.1/e.png)
 	
 ## Reprodukce modelů
