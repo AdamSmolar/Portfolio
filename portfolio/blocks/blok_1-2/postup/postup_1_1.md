@@ -2,6 +2,7 @@
 
 ## Kurzy
 Kurzy od Fusion Autodesk [self-paced learning](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion)
+
 Splnil jsem 2 sady lekcí tutorials a 3D modeling
 ![error](../a.1/o.1/a.png)
 - Jedna z lekcí v 3D modeling je tento model kola
@@ -11,7 +12,10 @@ Splnil jsem 2 sady lekcí tutorials a 3D modeling
 	
 ## Reprodukce modelů
 Měřil jsem součástky a následně snažil modelovat 1:1
+
 Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
+
+Tyto modely následně budu využívat při konstrukci lodičky
 - Model elektromagnetu
 ![error](../a.1/1.1/m.png)
 - Model motoru
