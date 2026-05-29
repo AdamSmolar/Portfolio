@@ -10,9 +10,9 @@
 ![error](../a.1/2.1/e.png)
 	
 ## Reprodukce modelů
--Měřil jsem součástky a následně snažil modelovat 1:1
--Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
--Tyto modely následně budu využívat při konstrukci lodičky
+-  Měřil jsem součástky a následně snažil modelovat 1:1
+- Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
+- Tyto modely následně budu využívat při konstrukci lodičky
 - Model elektromagnetu
 ![error](../a.1/1.1/m.png)
 - Model motoru
