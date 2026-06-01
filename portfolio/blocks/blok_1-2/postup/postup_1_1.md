@@ -8,7 +8,6 @@
 - Jedna z lekcí v 3D modeling je tento model kola
 	- zde jsem se seznámil s základy 2D sketchů a extruzí
 	- tuto lekci následovali další těžší funkce a modely
-
 ![error](../a.1/2.1/e.png)
 	
 ## Reprodukce modelů
