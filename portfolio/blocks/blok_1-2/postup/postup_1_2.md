@@ -10,3 +10,12 @@ nebo
 ![error](../a.1/o.1/lo.png)
 
 
+
+
+
+
+
+
+
+
+## [zpět](../blok_1-2.md)
