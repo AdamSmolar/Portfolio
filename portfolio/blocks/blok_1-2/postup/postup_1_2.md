@@ -2,7 +2,8 @@
 
 ## Lodička
 - Shromažďoval jsem informace o tom, jaký typ lodi vlastně chci a jak by měla vypadat
-- 1. modely vznikaly bez hlubšího promýšlení funkčnosti — šlo hlavně o to zjistit, zda je dokážu vůbec vymodelovat 
+- První modely vznikaly bez hlubšího promýšlení funkčnosti — šlo hlavně o to zjistit, zda je dokážu vůbec vymodelovat 
+
 př. Model trupu katamaránu
 ![error](../a.1/o.1/l.png)
 nebo
