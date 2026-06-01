@@ -46,10 +46,10 @@ Tisk na Prusa Mini+ trval 2 hodiny 14 minut. Jeden roh se mírně odlepil od pod
 - [prezentace pokroku](https://canva.link/baxa5j45svlp0cv)
 - [obhajoba-prezentace](https://canva.link/inxs9ni55rl086u)
 
-- Model  servo motoru napojený na kloub:
+- **Model  servo motoru napojený na kloub:**
 ![error](/a.1/2.1/s.png)
 
-- Lodní šroub:
+- **Lodní šroub:**
 ![error](/a.1/8.1/sr.png)
 
 ### Blok č.2
