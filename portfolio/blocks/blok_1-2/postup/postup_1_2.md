@@ -4,18 +4,17 @@
 - Shromažďoval jsem informace o tom, jaký typ lodi vlastně chci a jak by měla vypadat
 - První modely vznikaly bez hlubšího promýšlení funkčnosti — šlo hlavně o to zjistit, zda je dokážu vůbec vymodelovat 
 
-př. Model trupu katamaránu
 ![error](../a.1/o.1/l.png)
-nebo
+*př. Model trupu katamaránu*
 ![error](../a.1/o.1/lo.png)
+*model č.1 *
+
+## Lodní šroub
 
 
 
 
 
-
-
-
-
+**
 
 ## [zpět](../blok_1-2.md)
