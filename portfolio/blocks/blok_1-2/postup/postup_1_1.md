@@ -10,7 +10,8 @@
 	- tuto lekci následovali další těžší funkce a modely
 
 ![error](../a.1/2.1/e.png)
-	
+
+
 ## Reprodukce modelů
 -  Měřil jsem součástky a následně snažil modelovat ě1:1
 - Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
@@ -24,4 +25,6 @@
 
 ![error](../a.1/2.1/s.png)
 *Model  servo motoru napojený na kloub*
+
+## [zpět](../blok_1-2.md)
 
