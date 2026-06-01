@@ -5,9 +5,9 @@
 - První modely vznikaly bez hlubšího promýšlení funkčnosti — šlo hlavně o to zjistit, zda je dokážu vůbec vymodelovat 
 
 ![error](../a.1/o.1/l.png)
-*př. Model trupu katamaránu*
+*1. Model trupu katamaránu*
 ![error](../a.1/o.1/lo.png)
-*model č.1 *
+*2. Model*
 
 ## Lodní šroub
 
@@ -15,6 +15,6 @@
 
 
 
-**
+
 
 ## [zpět](../blok_1-2.md)
