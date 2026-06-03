@@ -1,5 +1,7 @@
 # Modelování lodičky a lodního šroubu
 
+---
+
 ## Lodička
 - Shromažďoval jsem informace o tom, jaký typ lodi vlastně chci a jak by měla vypadat
 - První modely vznikaly bez hlubšího promýšlení funkčnosti — šlo hlavně o to zjistit, zda je dokážu vůbec vymodelovat 
@@ -19,12 +21,12 @@
 *pohled na hladinu*
 
 -
--
+- 
 
 
 ![error](../1/l/2.png)
 
-
+---
 ## Lodní šroub
 -
 
