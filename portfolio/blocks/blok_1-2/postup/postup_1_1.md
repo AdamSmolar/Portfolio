@@ -29,5 +29,7 @@
 ![error](../1/k/s.png)
 *Model  servo motoru napojený na kloub*
 
+---
+
 ## [zpět](../blok_1-2.md)
 
