@@ -44,25 +44,25 @@
 - Zároveň jsem si na těchto prototypech vyzkoušel důkladný 3D tisk 
 - První prototypy vznikaly, bez bližších informací o tvaru lodního šroubu
 
-![error](../1/s/3.png)
+![error](../1/s/3.jpg)
 *1. Lodní šroub*
 
-![error](../1/s/3.png)
+![error](../1/s/3.jpg)
 *Plastová hřídel*
 
 - Následující modely byly zhotoveny bez hřídele, protože její přítomnost vedla k zasekávání a následnému poškození lodního šroubu
 
-![error](../1/s/4.png)
+![error](../1/s/4.jpg)
 
 - U dalších modelů jsem modeloval dle naměřených parametrů koupeného lodního šroubu
 
-![error](../1/s/n.png)
+![error](../1/s/n.jpg)
 - 
 
-![error](../1/s/3.1.png)
+![error](../1/s/3.1.jpg)
 *baterie a motor*
 
-![error](../1/s/3.png)
+![error](../1/s/3.jpg)
 *baterie a motor*
 
 ## [zpět](../blok_1-2.md)
