@@ -26,7 +26,7 @@
 ![error](../1/l/s2.png)
 *sketch lodě*
 
-- Modelování těchto prototypů mě bavilo natolik, že jsem si na nich vyzkoušel i strukturu lodě jak v budoucnu bude vypadat
+- Modelování těchto prototypů mě bavilo natolik, že jsem si na nich vyzkoušel i strukturu lodě, jak v budoucnu bude vypadat
 - Např. od předešlých modelů jsem přidal žebra a kýl
 - Zároveň jsem se učil přidávat více objektů do projektu
 
@@ -39,11 +39,21 @@
 ---
 
 ## Lodní šroub
--
 
+- Rozhodl jsem se, že si své dovednosti v modelování procvičím na tvorbě lodního šroubu
+- Zároveň jsem si na těchto prototypech vyzkoušel důkladný 3D tisk 
+- První prototypy vznikaly, bez bližších informací o tvaru lodního šroubu
 
+![error](../1/s/3.png)
+*baterie a motor*
 
+![error](../1/s/3.png) ![error](../1/s/3.1.png)
+*baterie a motor*
 
+![error](../1/s/3.png)
+*baterie a motor*
 
+![error](../1/s/3.png)
+*baterie a motor*
 
 ## [zpět](../blok_1-2.md)
