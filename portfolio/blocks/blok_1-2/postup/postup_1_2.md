@@ -18,23 +18,23 @@
 - Bohužel zatím jen z pohledu přímo na hladinu, protože my nešla namodelovat dolní zanedbaná část 
 
 ![error](../1/l/4.png)
-*problémová dolní část*
+*Problémová dolní část*
 
 ![error](../1/l/6.png)
-*pohled na hladinu*
+*Pohled na hladinu*
 
 ![error](../1/l/s2.png)
-*sketch lodě*
+*Sketch lodě*
 
 - Modelování těchto prototypů mě bavilo natolik, že jsem si na nich vyzkoušel i strukturu lodě, jak v budoucnu bude vypadat
 - Např. od předešlých modelů jsem přidal žebra a kýl
 - Zároveň jsem se učil přidávat více objektů do projektu
 
 ![error](../1/l/8.png)
-*žebra v modelu*
+*Žebra v modelu*
 
 ![error](../1/l/9.png)
-*baterie a motor*
+*Baterie a motor*
 
 ---
 
@@ -45,12 +45,10 @@
 - První prototypy vznikaly, bez bližších informací o tvaru lodního šroubu
 
 ![error](../1/s/3.png)
-*baterie a motor*
+*1. Lodní šroub a plastová hřídel*
 
-![error](../1/s/3.png) ![error](../1/s/3.1.png)
-*baterie a motor*
-
-![error](../1/s/3.png)
+- 
+![error](../1/s/3.1.png)
 *baterie a motor*
 
 ![error](../1/s/3.png)
