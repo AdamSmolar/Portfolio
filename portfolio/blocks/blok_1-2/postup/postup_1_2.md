@@ -47,7 +47,7 @@
 ![error](../1/s/3.jpg)
 *1. Lodní šroub*
 
-![error](../1/s/3.jpg)
+![error](../1/s/3.1.jpg)
 *Plastová hřídel*
 
 - Následující modely byly zhotoveny bez hřídele, protože její přítomnost vedla k zasekávání a následnému poškození lodního šroubu
@@ -59,7 +59,7 @@
 ![error](../1/s/n.jpg)
 - 
 
-![error](../1/s/3.1.jpg)
+![error](../1/s/3.jpg)
 *baterie a motor*
 
 ![error](../1/s/3.jpg)
