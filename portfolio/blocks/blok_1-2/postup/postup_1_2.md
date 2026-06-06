@@ -45,9 +45,20 @@
 - První prototypy vznikaly, bez bližších informací o tvaru lodního šroubu
 
 ![error](../1/s/3.png)
-*1. Lodní šroub a plastová hřídel*
+*1. Lodní šroub*
 
+![error](../1/s/3.png)
+*Plastová hřídel*
+
+- Následující modely byly zhotoveny bez hřídele, protože její přítomnost vedla k zasekávání a následnému poškození lodního šroubu
+
+![error](../1/s/4.png)
+
+- U dalších modelů jsem modeloval dle naměřených parametrů koupeného lodního šroubu
+
+![error](../1/s/n.png)
 - 
+
 ![error](../1/s/3.1.png)
 *baterie a motor*
 
