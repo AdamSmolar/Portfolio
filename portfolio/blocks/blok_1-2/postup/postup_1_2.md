@@ -50,19 +50,20 @@
 ![error](../1/s/3.1.jpg)
 *Plastová hřídel*
 
-- Následující modely byly zhotoveny bez hřídele, protože její přítomnost vedla k zasekávání a následnému poškození lodního šroubu
+- Od přidání plastové hřídele jsem u dalších modelů upustil, protože se ve šroubu zasekávala a ničila ho i sebe
 
 ![error](../1/s/4.jpg)
+*Model č.2*
 
 - U dalších modelů jsem modeloval dle naměřených parametrů koupeného lodního šroubu
 
 ![error](../1/s/n.jpg)
-- 
+*originál (koupený)*
 
-![error](../1/s/3.jpg)
-*baterie a motor*
+![error](../1/s/5.jpg)
+*Model skoro stejný jako originál, ale moc slabý*
 
-![error](../1/s/3.jpg)
-*baterie a motor*
+![error](../1/s/6.jpg)
+*současná podoba*
 
 ## [zpět](../blok_1-2.md)
