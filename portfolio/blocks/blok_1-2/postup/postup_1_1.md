@@ -16,7 +16,7 @@
 ---
 
 ## Reprodukce modelů
--  Měřil jsem součástky a následně snažil modelovat ě1:1
+- Měřil jsem součástky a následně snažil modelovat ě1:1
 - Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
 - Tyto modely následně budu využívat při konstrukci lodičky:
 
