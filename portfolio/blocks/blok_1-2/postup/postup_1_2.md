@@ -64,6 +64,6 @@
 *Model skoro stejný jako originál, ale moc slabý*
 
 ![error](../1/s/6.jpg)
-*současná podoba*
+*finální podoba tohoto pololetí*
 
 ## [zpět](../blok_1-2.md)
