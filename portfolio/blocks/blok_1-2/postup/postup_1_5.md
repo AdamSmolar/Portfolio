@@ -1,15 +1,15 @@
-[lodní šroub](https://www.youtube.com/watch?v=S6hdaIEu4ss)
-[inspirace](https://www.youtube.com/watch?v=JY61aVBoWnk)
-[airfoil gen](https://www.youtube.com/watch?v=dBkbiZrCJP0)
+Lehčí
+- [lodní šroub_YT](https://www.youtube.com/watch?v=S6hdaIEu4ss)
+- [inspirace_YT](https://www.youtube.com/watch?v=JY61aVBoWnk)
+- [airfoil gen_YT](https://www.youtube.com/watch?v=dBkbiZrCJP0)
 
 Těžší
-[YouTube](https://scialert.net/fulltext/?doi=jas.2014.1131.1138#e4)
-[lodní šroub effektivita](https://www.youtube.com/watch?v=x_8XaSl_Pcs)
-[airofoil](https://www.youtube.com/watch?v=yRtyrBdOqBg)
-
-[airfoil](https://www.mh-aerotools.de/airfoils/index.htm)													
-[hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
-[hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
+- [lodní šroub efektivita_YT](https://www.youtube.com/watch?v=x_8XaSl_Pcs)
+- [airofoil_YT](https://www.youtube.com/watch?v=yRtyrBdOqBg)
+- [hydrofoil](https://scialert.net/fulltext/?doi=jas.2014.1131.1138#e4)
+- [airfoil](https://www.mh-aerotools.de/airfoils/index.htm)												
+- [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
+- [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 
 
 
