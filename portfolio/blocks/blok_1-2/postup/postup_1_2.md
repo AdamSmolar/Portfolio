@@ -61,7 +61,7 @@
 *originál (koupený)*
 
 ![error](../1/s/5.jpg)
-*Model skoro stejný jako originál, ale moc slabý*
+*Model skoro stejný jako originál, ale moc tenký*
 
 ![error](../1/s/6.jpg)
 *finální podoba tohoto pololetí*
