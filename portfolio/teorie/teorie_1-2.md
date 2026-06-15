@@ -2,7 +2,7 @@
 
 ## Co jsem se naučila
 
-Pochopila jsem, že 3D tisk není jen „stisknu tlačítko a vytiskne se model" – příprava v sliceru a správné nastavení parametrů trvá déle než samotný tisk. Naučila jsem se uvažovat o modelu z pohledu tiskárny: jak leží na podložce, kde jsou přesahy a jak silné mají být stěny.
+Pochopil jsem, že 3D tisk není jen „stisknu tlačítko a vytiskne se model" – příprava v sliceru a správné nastavení parametrů trvá déle než samotný tisk. Naučil jsem se uvažovat o modelu z pohledu tiskárny: jak leží na podložce, kde jsou přesahy a jak silné mají být stěny.
 
 \---
 
