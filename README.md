@@ -12,6 +12,7 @@ Každý blok obsahuje:
   - [Praktická část](portfolio/blocks/blok_1-2/blok_1-2.md)
   - [Teoretické pozadí](portfolio/teorie/teorie_1-2.md)
 
+![xx](https://github.com/user-attachments/assets/9352cf64-876a-463a-a268-a40e81785abf)
 
 ---
 
