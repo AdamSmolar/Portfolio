@@ -1,6 +1,6 @@
-# Teorie – Blok 1: 3D tisk ----- Pracujese na tom
+# Teorie 1 a 2 – 3D tisk
 
-## Co jsem se naučila
+## Co jsem se naučil
 
 Pochopil jsem, že 3D tisk není jen „stisknu tlačítko a vytiskne se model" – příprava v sliceru a správné nastavení parametrů trvá déle než samotný tisk. Naučil jsem se uvažovat o modelu z pohledu tiskárny: jak leží na podložce, kde jsou přesahy a jak silné mají být stěny.
 

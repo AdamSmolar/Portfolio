@@ -20,5 +20,6 @@ Každý blok obsahuje:
 [O mně](/about.md)
 
 ---
-Markdown syntax pro tvorbu obsahu [Markdown](/zakladni_sytax_markdown.md)
+
+[Markdown](/zakladni_sytax_markdown.md) syntax pro tvorbu obsahu 
 [učitel](https://github.com/dawissl/portfolio-simple)

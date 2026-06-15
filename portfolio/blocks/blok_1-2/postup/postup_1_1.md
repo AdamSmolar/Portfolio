@@ -16,8 +16,8 @@
 ---
 
 ## Reprodukce modelů
-- Měřil jsem součástky a následně snažil modelovat ě1:1
-- Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle
+- Měřil jsem součástky pomocí posuvného měřítka a následně se jej snažil modelovat 1:1
+- Toto byla má 1. zkušenost s modelování podle naměřených parametrů, které nejsou ideální a musí se kompenzovat vůle a chybovost měření
 - Tyto modely následně budu využívat při konstrukci lodičky:
 
 ![error](../1/k/m.png)
