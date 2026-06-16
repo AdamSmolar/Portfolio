@@ -1,6 +1,17 @@
+# Zdroje
+
+##1.pololetí
+
+- [https://www.autodesk.com/learn/](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion) – výukové lekce fusion
+
+##2. pololetí
+
+### Šroub
+
 Lehčí
 - [lodní šroub základy_YT](https://www.youtube.com/watch?v=S6hdaIEu4ss)
 - [inspirace lodě_YT](https://www.youtube.com/watch?v=JY61aVBoWnk)
+- [inspirace lodní šroub (porovnání)ú_YT](https://www.youtube.com/watch?v=KeTh-TIhL9M&t=1s)
 - [airfoil generátor_YT](https://www.youtube.com/watch?v=dBkbiZrCJP0)
 
 Těžší
@@ -11,8 +22,10 @@ Těžší
 - [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 
-
-
+pdf:
+[katamarán odkaz na stažení pdf](https://www.boatdesign.net/attachments/how-to-dimension-a-sailing-catamaran-1-pdf.144807/)
+[PDF](/how_catamaran.pdf)
+[parametry odkaz na pdf](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
 
 torque - 0.1Nm
 thrust
