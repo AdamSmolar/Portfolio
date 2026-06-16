@@ -1,10 +1,10 @@
 # Zdroje
 
-##1.pololetí
+## 1.pololetí
 
 - [https://www.autodesk.com/learn/](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion) – výukové lekce fusion
 
-##2. pololetí
+## 2. pololetí
 
 ### Šroub
 
@@ -23,7 +23,6 @@ Těžší
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 
 pdf:
-[katamarán odkaz na stažení pdf](https://www.boatdesign.net/attachments/how-to-dimension-a-sailing-catamaran-1-pdf.144807/)
 [PDF](/how_catamaran.pdf)
 [parametry odkaz na pdf](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
 
