@@ -23,8 +23,9 @@ Těžší
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 
 pdf:
-[PDF](/how_catamaran.pdf)
-[parametry odkaz na pdf](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
+[katamarán- parametry odkaz na pdf](/how_catamaran.pdf)
+
+[návod na katamarán](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
 
 torque - 0.1Nm
 thrust
