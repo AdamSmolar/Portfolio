@@ -11,7 +11,7 @@
 Lehčí
 - [lodní šroub základy_YT](https://www.youtube.com/watch?v=S6hdaIEu4ss)
 - [inspirace lodě_YT](https://www.youtube.com/watch?v=JY61aVBoWnk)
-- [inspirace lodní šroub (porovnání)ú_YT](https://www.youtube.com/watch?v=KeTh-TIhL9M&t=1s)
+- [inspirace lodní šroub (porovnání)_YT](https://www.youtube.com/watch?v=KeTh-TIhL9M&t=1s)
 - [airfoil generátor_YT](https://www.youtube.com/watch?v=dBkbiZrCJP0)
 
 Těžší
@@ -22,7 +22,8 @@ Těžší
 - [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 
-pdf:
+Pdf:
+
 [katamarán- parametry odkaz na pdf](/how_catamaran.pdf)
 
 [návod na katamarán](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
@@ -55,3 +56,7 @@ and i how are these parameters used or precisely how are propellers made using a
 ne
 https://www.mermaid-consultants.com/b-series-propeller-design.html
 https://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/propeller/prop1.html
+
+---
+
+## [zpět](../blok_1-2.md)
