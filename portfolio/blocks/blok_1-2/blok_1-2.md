@@ -88,4 +88,6 @@ Realita mého tématu je zcela převrácená než jsem si myslel. Původně jsem
 - [https://help.prusa3d.com/cs/](https://help.prusa3d.com/cs/) – Knowledge Base Prusa, hlavně sekce o supports a adhesion
 - [https://www.autodesk.com/learn/](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion) – výukové lekce fusion
 
-## [zpět](../../README.md)
+---
+
+## [zpět](../../)

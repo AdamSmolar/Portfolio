@@ -59,4 +59,4 @@ https://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/prop
 
 ---
 
-## [zpět](../blok_1-2.md)
+## [zpět](../blok_1-2)
