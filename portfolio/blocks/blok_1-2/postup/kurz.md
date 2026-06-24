@@ -8,7 +8,7 @@
 
 ![error](../1/k/a.png)
 - Jedna z lekcí v 3D modeling je tento model kola
-s	- zde jsem se seznámil s základy 2D sketchů a extruzí
+	- zde jsem se seznámil s základy 2D sketchů a extruzí
 	- tuto lekci následovali další těžší funkce a modely
 
 ![error](../1/k/e.png)
