@@ -58,12 +58,12 @@
 - U dalších modelů jsem modeloval dle naměřených parametrů koupeného lodního šroubu
 
 ![error](../1/s/n.jpg)
-*originál (koupený)*
+*Originál (koupený)*
 
 ![error](../1/s/5.jpg)
 *Model skoro stejný jako originál, ale moc tenký*
 
 ![error](../1/s/6.jpg)
-*finální podoba tohoto pololetí*
+*Finální podoba tohoto pololetí*
 
 ## [zpět](../blok_1-2.md)

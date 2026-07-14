@@ -21,10 +21,16 @@ Těžší
 - [airfoil stránky](https://www.mh-aerotools.de/airfoils/index.htm)											
 - [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
+- [reynoldovo číslo](https://www.youtube.com/watch?v=wtIhVwPruwY))
+
+### Loď
+
+Lehčí
+ - https://powerandmotoryacht.com/boat-design/the-basics-of-boat-hull-design-explained/
+ - https://www.yachtsite.com/reference/catamaran_hull_design_formulas/
+Těžší
 
 Pdf:
-
-[katamarán- parametry odkaz na pdf](/how_catamaran.pdf)
 
 [návod na katamarán](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
 
