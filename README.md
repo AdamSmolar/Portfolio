@@ -9,10 +9,12 @@ Každý blok obsahuje:
 ## **Přehled bloků**
 
 ### *Blok 1 a 2 - 3D tisk*
-  - [Praktická část](portfolio/blocks/blok_1-2/blok_1-2.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie_1-2.md)
+  - [Praktická část](portfolio/blocks/block_1-2/prakt.md)
+  - [Teoretické pozadí](portfolio/block_1-2/teorie.md)
 
-![xx](https://github.com/user-attachments/assets/9352cf64-876a-463a-a268-a40e81785abf)
+### *Ubuntu server*
+- [Praktická část](portfolio/blocks/other/ubuntu_server/prakt.md)
+- [Teoretické pozadí](portfolio/blocks/other/ubuntu_server/teorie.md)
 
 ---
 
@@ -24,3 +26,4 @@ Každý blok obsahuje:
 
 [Markdown](/zakladni_sytax_markdown.md) syntax pro tvorbu obsahu 
 [učitel](https://github.com/dawissl/portfolio-simple)
+[já](https://adamsmolar.github.io/Portfolio/)

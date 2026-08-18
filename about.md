@@ -9,7 +9,7 @@ Jmenuji se Adam Smolař a jsem student technického lycea se zaměřením na 3D 
 - práce s počítačem a technologiemi  obecně
 - počítačové hry s automatizačními prvky
 - hudba jako prostředek soustředění i relaxace
-- silový trénink
+- silové tréninky
 
 ### Zaměření
 Ve studiu se orientuji především na:

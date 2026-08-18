@@ -39,7 +39,8 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 - 2.Modelování "*na zakázku*"
 	- [Fingerscoot](/postup/finger.md)
 
-- Modelování katamaránu 
+- Modelování katamaránu
+ 
 ---
 
 ## Výstupy
@@ -79,14 +80,5 @@ Realita mého tématu je zcela převrácená než jsem si myslel. Původně jsem
 
 ---
 
-## Teoretické pozadí (stručně)
-
-3D tisk metodou FDM nanáší roztavený plast (filament) vrstvu po vrstvě. Digitální model ve formátu 3MF zpracuje slicer – software, který vygeneruje G-code (instrukce pro tiskárnu). Klíčové parametry jsou výška vrstvy, výplň a přítomnost supports pro přesahy. 
-- [Podrobnosti teorie](../../teorie/teorie_1-2.md)
-
----
-
+##[Teorie](/teorie.md)
 ## [Zdroje](/zdroje.md)
-
-- [https://help.prusa3d.com/cs/](https://help.prusa3d.com/cs/) – Knowledge Base Prusa, hlavně sekce o supports a adhesion
-- [https://www.autodesk.com/learn/](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion) – výukové lekce fusion

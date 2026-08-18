@@ -66,4 +66,6 @@
 ![error](../1/s/6.jpg)
 *Finální podoba tohoto pololetí*
 
-## [zpět](../blok_1-2.md)
+---
+
+## [zpět](../prakt.md)

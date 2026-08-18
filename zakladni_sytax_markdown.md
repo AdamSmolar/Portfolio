@@ -51,7 +51,7 @@ Kód – inline
 
 Pro krátký kód v textu použij obrácené apostrofy:
 
-Proměnnou deklarujeme pomocí `int cislo = 5;`
+Proměnnou deklarujeme pomocí `int cislo = 5;` 
 
 
 Kód – blok

@@ -2,6 +2,17 @@
 
 tyto hodnoty jsem zadával předem z tvé kalkulačky kde jsem si nastavil najdi kde v mých či tvých výpočtech vznikla chyba či nedorozumění respektive mám probllém s hodnotou tahu 1.18 když teoretická síla je 5,2 a Tmax je 2,4
 
+
+
+
+
+
+
+
+
+
+
+
 I am making 3D printed rc boat catamaran printed on 20x25x20 prusa MK3. It will be carrying 3kg battery, sonar, antena, 2 motors and other electronics. Its purpose is to carry about kg of fish food up to 1km on lake. 
 i making boat propeller from scratch.
  can you make pictures  where u explain propeller geometry (without considering hydrofoil profile)
