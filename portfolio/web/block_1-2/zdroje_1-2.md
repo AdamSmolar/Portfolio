@@ -8,6 +8,8 @@
 
 ### Šroub
 
+---
+
 Lehčí
 - [lodní šroub základy_YT](https://www.youtube.com/watch?v=S6hdaIEu4ss)
 - [inspirace lodě_YT](https://www.youtube.com/watch?v=JY61aVBoWnk)
@@ -49,7 +51,3 @@ hub
 ne
 https://www.mermaid-consultants.com/b-series-propeller-design.html
 https://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/propeller/prop1.html
-
----
-
-## [zpět](blok_1-2.md)

@@ -80,5 +80,5 @@ Realita mého tématu je zcela převrácená než jsem si myslel. Původně jsem
 
 ---
 
-##[Teorie](/teorie.md)
-## [Zdroje](/zdroje.md)
+## [Teorie](/teorie_1-2.md)
+## [Zdroje](/zdroje_1-2.md)

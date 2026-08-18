@@ -9,12 +9,12 @@ Každý blok obsahuje:
 ## **Přehled bloků**
 
 ### *Blok 1 a 2 - 3D tisk*
-  - [Praktická část](portfolio/web/block_1-2/prakt.md)
-  - [Teoretické pozadí](portfolio/web/block_1-2/teorie.md)
+  - [Praktická část](portfolio/web/block_1-2/prakt_1-2.md)
+  - [Teoretické pozadí](portfolio/web/block_1-2/teorie_1-2.md)
 
 ### *Ubuntu server*
-- [Praktická část](portfolio/web/other/ubuntu_server/prakt.md)
-- [Teoretické pozadí](portfolio/web/other/ubuntu_server/teorie.md)
+- [Praktická část](portfolio/web/other/ubuntu_server/prakt_ubuntu_server.md)
+- [Teoretické pozadí](portfolio/web/other/ubuntu_server/teorie_ubuntu_server.md)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ---
 
-## [zpět](../prakt.md)
+## [zpět](../prakt_1-2.md)
 
 
 

@@ -125,10 +125,7 @@ Silnější plošina pod celým modelem. Lepší adheze než Brim, ale obtížn�
 
  ---
 
-## Zdroje
-
-* [https://help.prusa3d.com/cs/](https://help.prusa3d.com/cs/)
-* [https://www.printables.com/](https://www.printables.com/)
-* [https://all3dp.com/](https://all3dp.com/) – články o materiálech a parametrech tisku
+## [Praktická část](/prakt_1-2.md)
+## [Zdroje](/zdroje_1-2.md)
 
 
