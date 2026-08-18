@@ -11,13 +11,14 @@ https://www.youtube.com/watch?v=gtfIRyFM-A4
 
 ai
 https://www.youtube.com/watch?v=v51G7F17sw8
-https://ubuntu.com/download/server#manual-install-tab
++ ostatní faktory
 
 ## instalace
 
 ai
 https://www.youtube.com/watch?v=v51G7F17sw8
 https://rufus.ie/cs/
+https://ubuntu.com/download/server#manual-install-tab
 
 ## static ip
 
