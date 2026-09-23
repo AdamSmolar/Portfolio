@@ -10,17 +10,17 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 ### Blok č.1
 - Studování a modelování dle kurzů
-	- Měřil jsem a modeloval různé objekty
+	- 	Měřil jsem a modeloval různé objekty
 	- Učil jsem se za pomocí kurzů od Autodesku
 	- [více inf. zde](/postup/kurz.md)
 
-- Zkouška modelování lovidčky a lodního šroubu
+- Zkouška modelování lodičky a lodního šroubu
 	- Získával jsem zkušenosti  v modelování pro můj projekt
 	- Vymodeloval jsem a vytisknul několik prototypů lodního šroubu
 	- [více inf. zde](/postup/lodni.md)
 
 ### Blok č.2
-- Zkouška modelování "*na zakázku*" 
+- Zkouška modelování „*na zakázku*“ 
 	- Naměřil jsem součástky potřebné pro tento projekt
 	- Modeloval jsem s ohledem na vůle, aby byla po vytištění nutná co nejmenší dodatečná úprava
 	- Vzhledem k velmi krátkému termínu jsem musel nedostatek prototypů vyvažovat důkladnou úpravou modelu
@@ -36,7 +36,7 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 	- Dopočítal jsem si a vybral airfoil profil - NACA4412 
 	- [více inf. zde](/postup/lodni2.md)
 
-- 2.Modelování "*na zakázku*"
+- 2.Modelování „*na zakázku*“
 	- [Fingerscoot](/postup/finger.md)
 
 - Modelování katamaránu
@@ -64,7 +64,7 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 - [obhajoba-prezentace](https://canva.link/citequc7jz43qs8)
 
 ![error](2/box/45.png)
-*Model na "zakázku"*
+*Model na „zakázku“*
 
 ![error](2/tesneni/2.jpg)
 *Zkušební spoj lodě*
@@ -76,9 +76,10 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 ## Reflexe
 
-Realita mého tématu je zcela převrácená než jsem si myslel. Původně jsem si myslel, že modelování bude pro mě problém a samotné tisknutí bude "brnkačka." Nejtěžší pro mě bylo najít technické informace a *nenechat se nimi pohltit.*
+*„Realita celého projektu se ukázala být zcela odlišná od mých původních očekávání. Předpokládal jsem, že největší výzvou bude 3D modelování a samotný tisk už proběhne bez problémů. Ve skutečnosti se však ukázaly jako náročné všechny fáze – i když mě práce stále velmi baví. Stejně tak jsem podcenil časovou náročnost; projektu jsem věnoval již přes 400 hodin a proces tisku stále pokračuje. Velkou výzvou bylo také vyhledat správné technické informace, nenechat se jimi zahltit a dokázat je správně pochopit a aplikovat.“*
 
 ---
 
 ## [Teorie](/teorie_1-2.md)
+
 ## [Zdroje](/zdroje_1-2.md)

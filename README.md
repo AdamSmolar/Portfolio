@@ -1,20 +1,22 @@
-# Přehled odborných bloků
+# Přehled projektů a odborných bloků
 
 Vítejte v portfoliu.
 
-Každý blok obsahuje:
-- praktickou část (projekt a obrázky)
+Každý odborný blok obsahuje:
+- praktickou část (popis praktické práce a obrázky)
 - teoretické pozadí (vysvětlení pojmů)
   
-## **Přehled bloků**
+## Přehled bloků
 
 ### *Blok 1 a 2 - 3D tisk*
-  - [Praktická část](portfolio/web/block_1-2/prakt_1-2.md)
-  - [Teoretické pozadí](portfolio/web/block_1-2/teorie_1-2.md)
+  - [Praktická část](web/block_1-2/prakt_1-2.md)
+  - [Teoretické pozadí](web/block_1-2/teorie_1-2.md)
+
+## Projekty
 
 ### *Ubuntu server*
-- [Praktická část](portfolio/web/other/ubuntu_server/prakt_ubuntu_server.md)
-- [Teoretické pozadí](portfolio/web/other/ubuntu_server/teorie_ubuntu_server.md)
+- [Praktická část](web/other/ubuntu_server/prakt_ubuntu_server.md)
+- [Teoretické pozadí](web/other/ubuntu_server/teorie_ubuntu_server.md)
 
 ---
 

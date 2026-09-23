@@ -1,14 +1,9 @@
-# Modelování lodičky a lodního šroubu
-
-## Lodička
-
-
-
 # Těsnění
 
 ## Tisk s TPU
 
-
+[error](../prakt_lodtesneni.md)
+![error](../1/ada/a.png)
 
 ---
 
