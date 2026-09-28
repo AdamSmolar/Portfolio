@@ -32,13 +32,13 @@ Cílem této zakázky bylo vytvořit napodobeninu známé kooperační hry „Ke
 *Propojené desky*
 
 
-## Tisk a po tiskový process
+## Tisk a po tiskový process	
 
 - Pro tisk dvou finálních boxů nezbylo mnoho času na optimalizaci, proto jsem využíval zkušenosti získané při tisku prvního z nich
--Ukázalo se například, že vertikálně orientované klapky byly příliš křehké, takže bylo nutné je vytisknout samostatně a dodatečně namontovat
--Tisk probíhal při 150% rychlosti, což vedlo k mírnému zmenšení plánovaných vůlí – drobné nepřesnosti však šlo snadno zbrousit
+- Ukázalo se například, že vertikálně orientované klapky byly příliš křehké, takže bylo nutné je vytisknout samostatně a dodatečně namontovat
+- Tisk probíhal při 150% rychlosti, což vedlo k mírnému zmenšení plánovaných vůlí – drobné nepřesnosti však šlo snadno zbrousit
 
-![error](../2/box/klapky.png)
+![error](../2/box/klapky.jpg)
 *Klakpy tisklé vertikálně*
 
 ![error](../2/box/box%klapky.png)

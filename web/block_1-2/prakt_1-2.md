@@ -28,7 +28,7 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 - Tisknutí a testování z růžných filamentů
 	- Upravoval jsem G-CODE v PrusaSliceru, abych mohl tisknout 2 filamenty najednou
-	- Testoval jsem své prototypy a optimalizoval jejich vlastnosti i samotný proces tisku.
+	- Testoval jsem své prototypy a optimalizoval jejich vlastnosti i samotný proces tisku
 	- [více inf. zde](/postup/tesneni.md)
 
 - Přemodelování lodního šroubu
