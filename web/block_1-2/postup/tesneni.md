@@ -8,6 +8,7 @@ Zároveň jsem chtěl zjistit zda jsem schopen vytisknout své vlastní vodotěs
 
 ---
 
+
 ## Tisk s TPU
 
 - Tisk s TPU je trochu zrádný v tom, že TPU je velmi přilnaví a „*lepí*“ se na desku, a proto jsem zvolil, že se zaměřím na tisk TPU na 2. plast resp. PLA, PETG
@@ -25,6 +26,7 @@ Zároveň jsem chtěl zjistit zda jsem schopen vytisknout své vlastní vodotěs
 ![error](../2/tesneni/benchy.jpg)
 *Testování TPU a kalibrování tiskárny pomocí Benchy*
 
+---
 
 
 ## Testování těsnění

@@ -5,6 +5,8 @@
 
 Cílem této zakázky bylo vytvořit napodobeninu známé kooperační hry „Keep talking and nobody explodes“ s více prvky modularity. Pro tento projekt byl zároveň vymezen velmi omezený čas (necelé 2 týdny).
 
+---
+
 
 ## Box
 
@@ -18,6 +20,8 @@ Cílem této zakázky bylo vytvořit napodobeninu známé kooperační hry „Ke
 ![error](../2/box/pohled_a.png)
 *Dva hotové moduly*
 
+---
+
 
 ## Deska
 
@@ -30,6 +34,8 @@ Cílem této zakázky bylo vytvořit napodobeninu známé kooperační hry „Ke
 
 ![error](../2/box/desky_s.png)
 *Propojené desky*
+
+---
 
 
 ## Tisk a po tiskový process	

@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Kurzy
 - Kurzy byly od Fusion Autodesk -> [self-paced learning](https://www.autodesk.com/learn/ondemand/collection/self-paced-learning-for-fusion)
 - Splnil jsem 2 sady lekcí tutorials a 3D modeling
@@ -14,6 +15,7 @@
 ![error](../1/k/e.png)
 
 ---
+
 
 ## Reprodukce modelů
 - Měřil jsem součástky a následně snažil modelovat 1:1
@@ -28,6 +30,7 @@
 
 ![error](../1/k/s.png)
 *Model  servo motoru napojený na kloub*
+
 
 ---
 

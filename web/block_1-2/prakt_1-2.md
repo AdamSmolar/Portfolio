@@ -6,6 +6,7 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 ---
 
+
 ## Postup
 
 ### Blok č.1
@@ -43,6 +44,7 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
  
 ---
 
+
 ## Výstupy
 
 ### Blok č.1
@@ -74,9 +76,11 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 ---
 
+
 ## Reflexe
 
 *„Realita celého projektu se ukázala být zcela odlišná od mých původních očekávání. Předpokládal jsem, že největší výzvou bude 3D modelování a samotný tisk už proběhne bez problémů. Ve skutečnosti se však ukázaly jako náročné všechny fáze – i když mě práce stále velmi baví. Stejně tak jsem podcenil časovou náročnost; projektu jsem věnoval již přes 400 hodin a proces tisku stále pokračuje. Velkou výzvou bylo také vyhledat správné technické informace, nenechat se jimi zahltit a dokázat je správně pochopit a aplikovat.“*
+
 
 ---
 
