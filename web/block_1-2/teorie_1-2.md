@@ -60,6 +60,11 @@ Nejpoužívanější materiál pro FDM tisk. Snadno se tiskne, minimální defor
 
  ---
 
+**TPU (Termoplastic polyuretan)**
+Pružný materiál, který je velmi přilnavý a „*lepí*“. Užívá se hlavně v součástkác, kde je potřeba absorpce vibrací a minimální deformace.
+
+ ---
+
 **STL**
 Formát souboru popisující povrch 3D modelu jako soustavu trojúhelníků. Nejrozšířenější formát pro 3D tisk. Neobsahuje informace o barvě nebo materiálu.
 

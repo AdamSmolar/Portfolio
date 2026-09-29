@@ -9,7 +9,8 @@ Zároveň jsem chtěl zjistit zda jsem schopen vytisknout své vlastní vodotěs
 
 ## Tisk s TPU
 
-- Tisk s TPU je trochu zrádný v tom, že TPU je velmi přilnaví a „*lepí*“ se na desku, a proto jsem zvolil, že se zaměřím na tisk na TPU na 2. plast resp. PLA, PETG
+- Tisk s TPU je trochu zrádný v tom, že TPU je velmi přilnaví a „*lepí*“ se na desku, a proto jsem zvolil, že se zaměřím na tisk TPU na 2. plast resp. PLA, PETG
+	- Mohl bych použít nějakou separační vrstvu jako je např. lepidlo, ale pro můj účel je to zbytečné.
 - V době, kdy jsem toto testování dělal, nebyla pro můj typ tiskárny možnost tisknout dva filamenty zároveň s automatickým nastavením teploty atd.
 - Nejdříve jsem na tuto realitu nebral ohled, ale po prvním tisku bylo jasné, že tento problém budu muset nějak vyřešit – a to pomocí manuální úpravy g-code
 

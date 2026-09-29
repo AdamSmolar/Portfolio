@@ -41,9 +41,6 @@ Cílem této zakázky bylo vytvořit napodobeninu známé kooperační hry „Ke
 ![error](../2/box/klapky.jpg)
 *Klakpy tisklé vertikálně*
 
-![error](../2/box/box%klapky.png)
-*Klakpy montované do víka*
-
 ![error](../2/box/tisk.png)
 *Tisk v Prusa Sliceru*
 
