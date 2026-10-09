@@ -9,14 +9,21 @@ Každý odborný blok obsahuje:
 ## Přehled bloků
 
 ### *Blok 1 a 2 - 3D tisk*
-  - [Praktická část](web/block_1-2/prakt_1-2.md)
-  - [Teoretické pozadí](web/block_1-2/teorie_1-2.md)
+- [Praktická část](web/block_1-2/prakt_1-2.md)
+- [Teoretické pozadí](web/block_1-2/teorie_1-2.md)
+
+### *Blok 3 - programování v pythonu*
+- [Praktická část](web/block_3/prakt_3.md)
+- [Teoretické pozadí](web/block_3/teorie_3.md)
+
+
+
 
 ## Projekty
 
 ### *Ubuntu server*
-- [Praktická část](web/other/ubuntu_server/prakt_ubuntu_server.md)
-- [Teoretické pozadí](web/other/ubuntu_server/teorie_ubuntu_server.md)
+- [Praktická část](web/projekty/ubuntu_server/prakt_ubuntu_server.md)
+- [Teoretické pozadí](web/projekty/ubuntu_server/teorie_ubuntu_server.md)
 
 ---
 
