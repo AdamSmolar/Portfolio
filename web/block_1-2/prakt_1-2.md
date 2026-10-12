@@ -84,6 +84,5 @@ Chtěl jsem získat zkušenosti, abych dokázal vytvořit plastové tělo pro m�
 
 ---
 
-## [Teorie](/teorie_1-2.md)
-
+## [Teoretická část](/teorie_1-2.md)
 ## [Zdroje](/zdroje_1-2.md)

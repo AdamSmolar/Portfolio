@@ -6,48 +6,39 @@
 
 ## 2. pololetí
 
-### Šroub
+### Lodní šroub odkazy
 
 ---
 
-Lehčí
+Lehčí na pochopení
 - [lodní šroub základy_YT](https://www.youtube.com/watch?v=S6hdaIEu4ss)
 - [inspirace lodě_YT](https://www.youtube.com/watch?v=JY61aVBoWnk)
 - [inspirace lodní šroub (porovnání)_YT](https://www.youtube.com/watch?v=KeTh-TIhL9M&t=1s)
 - [airfoil generátor_YT](https://www.youtube.com/watch?v=dBkbiZrCJP0)
 
-Těžší
+Těžší = jen výtažek potřebný inf.
 - [efektivita lodního šroubu_YT](https://www.youtube.com/watch?v=x_8XaSl_Pcs)
 - [jak vybrat airfoil profil_YT](https://www.youtube.com/watch?v=yRtyrBdOqBg)
 - [hydrofoil článek](https://scialert.net/fulltext/?doi=jas.2014.1131.1138#e4)
-- [airfoil stránky](https://www.mh-aerotools.de/airfoils/index.htm)											
+- [airfoil stránky](https://www.mh-aerotools.de/airfoils/index.htm)										
 - [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
 - [reynoldovo číslo](https://www.youtube.com/watch?v=wtIhVwPruwY))
+- [obrázek popisující změnu lodního šroubu v závislosti na blade area ratio](https://www.mermaid-consultants.com/b-series-propeller-design.html)
 
-### Loď
+---
 
-Lehčí
- - https://powerandmotoryacht.com/boat-design/the-basics-of-boat-hull-design-explained/
- - https://www.yachtsite.com/reference/catamaran_hull_design_formulas/
-Těžší
 
-Pdf:
+### Loď odkazy
+
+ - [Článek vysvětlující geometrii trupu lodi pomocí sekcí](https://powerandmotoryacht.com/boat-design/the-basics-of-boat-hull-design-explained/)
+ - [Výtažek - výpočet mezery mezi trupy u katamaránu](https://www.yachtsite.com/reference/catamaran_hull_design_formulas/)
+ - [The goat na vodotěsnění](https://www.youtube.com/watch?v=ybv1qv0HQHk)
+Pdf:	
 
 [návod na katamarán](https://www.a-cat.org/sites/default/files/Measurers%20Guidelines%2001-06-2019.pdf)
 
-torque - 0.1Nm
-thrust
-pitch
-rake
-skew
-hub
+---
 
-
-
-
-
-
-ne
-https://www.mermaid-consultants.com/b-series-propeller-design.html
-https://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/propeller/prop1.html
+## [Praktická část](/prakt_1-2.md)
+## [Teoretická část](/teorie_1-2.md)

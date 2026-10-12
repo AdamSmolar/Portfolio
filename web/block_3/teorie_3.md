@@ -7,8 +7,49 @@ PAIN_1 = python
 ```
 
  ---
+## Slovník pojmů
 
-Augmented assigment
+---
+
+**Augmented assigment**
+
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
+**slovo**
+Info
+ 
+---
+
 
  ---
 
