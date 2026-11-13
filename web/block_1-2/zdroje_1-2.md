@@ -23,7 +23,7 @@ Těžší = jen výtažek potřebný inf.
 - [airfoil stránky](https://www.mh-aerotools.de/airfoils/index.htm)										
 - [hydrodynamika_1](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_I_1954.pdf)
 - [hydrodynamika_2](https://www.foils.org/wp-content/uploads/2018/01/HFhdbkVol_II_1954.pdf)
-- [reynoldovo číslo](https://www.youtube.com/watch?v=wtIhVwPruwY))
+- [reynoldovo číslo](https://www.youtube.com/watch?v=wtIhVwPruwY)
 - [obrázek popisující změnu lodního šroubu v závislosti na blade area ratio](https://www.mermaid-consultants.com/b-series-propeller-design.html)
 
 ---
