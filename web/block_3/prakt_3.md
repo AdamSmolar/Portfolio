@@ -12,10 +12,10 @@ Protože většina AI modelů pro výstup používá programovací jazyk Python,
 
 ---
 
-1. *Těžší workshop z kurzu*
+### 1. Těžší workshop z kurzu
 - Program, který najde chybu v lékařských záznamech
-- Celý kód [ZDE](medical_records.md)
-Výstup
+- Celý kód [ZDE](postup/medical_records.md)
+- *Výstup:*
 ```python
 Invalid format: {'patient_id': 'P1001', 'age': 34, 'gnder': 'Female', 'diagnosis': 'Hypertension', 'medications': ['Lisinopril'], 'last_visit_id': 'V2301'} at position 0 has missing and/or invalid keys.
 ```
